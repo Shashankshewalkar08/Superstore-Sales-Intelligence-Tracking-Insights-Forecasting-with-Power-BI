@@ -49,6 +49,7 @@ Inventory planning
 Marketing campaign timing
 
 Resource allocation
+<img width="1378" height="768" alt="forecast" src="https://github.com/user-attachments/assets/e571f04d-74a1-4d5c-9c90-95a0d621fae9" />
 
 🔹 Interactive Dashboards
 
@@ -59,6 +60,7 @@ Slicers & filters for product categories, customer segments, and geography
 Drill-throughs for detailed insights
 
 Secure sharing with decision-makers
+<img width="1380" height="768" alt="dashboard" src="https://github.com/user-attachments/assets/e60d230b-ef40-4ac5-a811-8765ea621fca" />
 
 🔹 Monitoring & Continuous Improvement
 
